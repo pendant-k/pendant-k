@@ -1,4 +1,6 @@
 # Hi, I'm Donghan Kim
+I'm senior student of SKKU, I'm interested in Web/Mobile Application.
+</br>
 
 # Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
