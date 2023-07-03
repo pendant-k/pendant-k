@@ -11,7 +11,7 @@ I'm senior student of SKKU, I'm interested in Web/Mobile Application.
 
 #### ⚒️ Tools ⚒️
 
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=FFFFFF"/>
 
 
 
