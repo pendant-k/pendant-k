@@ -10,6 +10,7 @@ I'm senior student of SKKU, I'm interested in Web/Mobile Application.
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=FFFFFF"/>
 
+### 📌 Overview 📌
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendant-k&layout=compact"><br><br>
 
 <!--
