@@ -1,3 +1,5 @@
+
+<div align='center'>
 ### Hi, I'm Donghan Kim
 I'm senior student of SKKU, I'm interested in Web/Mobile Application.
 <br>
@@ -12,9 +14,9 @@ I'm senior student of SKKU, I'm interested in Web/Mobile Application.
 
 ### 📌 Overview 📌
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendant-k&layout=compact"><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pendant-k&layout=compact&theme=tokyonight)
 
-
+</div>
 
 <!--
 **pendant-k/pendant-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
