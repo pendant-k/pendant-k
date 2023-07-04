@@ -17,6 +17,8 @@ I'm senior student of SKKU, I'm interested in Web/Mobile Application.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pendant-k&layout=compact&theme=tokyonight)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pendant-k&show_icons=true&theme=tokyonight)
+
 </div>
 
 <!--
