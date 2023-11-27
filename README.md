@@ -19,6 +19,8 @@ I'm senior student of SKKU, interested in Web/Mobile Application.
 
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pendant-k&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **pendant-k/pendant-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
