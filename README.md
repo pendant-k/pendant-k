@@ -17,9 +17,13 @@ I'm senior student of SKKU, interested in Web/Mobile Application.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pendant-k&layout=compact&theme=tokyonight)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pendant-k&theme=dark)](https://git.io/streak-stats)
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pendant-k&theme=dark)](https://git.io/streak-stats)
+
+
+
 
 <!--
 **pendant-k/pendant-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
