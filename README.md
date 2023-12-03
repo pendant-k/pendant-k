@@ -3,7 +3,6 @@
   
 ### Hi, I'm Donghan Kim
 I'm senior student of SKKU, interested in Web/Mobile Application.
-My main stack is Flutter
 <br>
 
 ### 💻 Stacks 💻
