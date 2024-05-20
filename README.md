@@ -21,6 +21,10 @@ I'm senior student of SKKU, interested in Web/Mobile Application.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pendant-k&theme=dark)](https://git.io/streak-stats)
 </div>
 
+### 💻 Problem Solving 💻
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pendant0706)](https://solved.ac/pendant0706)
+
 
 
 
