@@ -17,13 +17,6 @@ I'm senior student of SKKU, interested in Web/Mobile Application.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pendant-k&layout=compact&theme=tokyonight)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pendant-k&theme=dark)](https://git.io/streak-stats)
-
-
-### 💻 Problem Solving 💻
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pendant0706)](https://solved.ac/pendant0706)
 </div>
 
 
