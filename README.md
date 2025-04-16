@@ -2,7 +2,7 @@
 <div align='center'>
   
 ### Hi, I'm Donghan Kim
-I'm senior student of SKKU, interested in Web/Mobile Application.
+I'm junior Front-End Developer, interested in Web/Mobile Application.
 <br>
 
 ### 💻 Stacks 💻
