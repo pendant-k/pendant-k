@@ -13,8 +13,6 @@ I'm junior Front-End Developer, interested in Web/Mobile Application.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pendant-k&layout=compact&theme=tokyonight)](https://github.com/pendant-k)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pendant-k)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### Problem Solving
