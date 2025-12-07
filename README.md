@@ -1,20 +1,75 @@
-### Hi, I'm **Donghan Kim**
-I'm junior Front-End Developer, interested in Web/Mobile Application.
+<div align="center">
+
+```
+██████╗ ███████╗███╗   ██╗██████╗  █████╗ ███╗   ██╗████████╗      ██╗  ██╗
+██╔══██╗██╔════╝████╗  ██║██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝      ██║ ██╔╝
+██████╔╝█████╗  ██╔██╗ ██║██║  ██║███████║██╔██╗ ██║   ██║   █████╗█████╔╝ 
+██╔═══╝ ██╔══╝  ██║╚██╗██║██║  ██║██╔══██║██║╚██╗██║   ██║   ╚════╝██╔═██╗ 
+██║     ███████╗██║ ╚████║██████╔╝██║  ██║██║ ╚████║   ██║         ██║  ██╗
+╚═╝     ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝         ╚═╝  ╚═╝
+```
+
+### JavaScript Ecosystem Enthusiast
 
 ---
 
-### 💻 Stacks 💻
+## 🕹️ **TECH STACK** 🕹️
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/> [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Firebase-FFCC35?style=flat-square&logo=Firebase&logoColor=000000"/>
+```
+┌─────────────────────────────────────────────────────┐
+│  💾 LANGUAGES & FRAMEWORKS                          │
+└─────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
 
 ---
 
-### 📌 Overview 📌
+## 📊 **GITHUB STATS** 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pendant-k&layout=compact&theme=tokyonight)](https://github.com/pendant-k)
+```
+┌─────────────────────────────────────────────────────┐
+│  📈 ACTIVITY & CONTRIBUTIONS                        │
+└─────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pendant-k&theme=synthwave&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pendant-k&theme=synthwave" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pendant-k&theme=synthwave&utcOffset=9" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pendant-k&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area_color=F85D7F&area=true&hide_border=true&theme=high-contrast" width="48%"/>
+
+</div>
 
 ---
 
-### Problem Solving
+## 🏆 **PROBLEM SOLVING** 🏆
+
+```
+┌─────────────────────────────────────────────────────┐
+│  🎯 ALGORITHM & COMPETITIVE PROGRAMMING             │
+└─────────────────────────────────────────────────────┘
+```
+
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pendant0706)](https://solved.ac/pendant0706/)
+
+</div>
