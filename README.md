@@ -51,7 +51,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pendant-k&theme=synthwave&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" width="48%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pendant-k&theme=synthwave" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pendant-k&theme=synthwave" width="48%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pendant-k&theme=synthwave&utcOffset=9" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pendant-k&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area_color=F85D7F&area=true&hide_border=true&theme=high-contrast" width="48%"/>
