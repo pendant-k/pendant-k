@@ -15,11 +15,6 @@
 
 ## **TECH STACK**
 
-
-┌─────────────────────────────────────────────────────┐
-│  💾 LANGUAGES & FRAMEWORKS                          │
-└─────────────────────────────────────────────────────┘
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -39,11 +34,6 @@
 
 ## **GITHUB STATS**
 
-
-┌─────────────────────────────────────────────────────┐
-│  📈 ACTIVITY & CONTRIBUTIONS                        │
-└─────────────────────────────────────────────────────┘
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pendant-k&theme=synthwave" width="48%"/>
@@ -55,12 +45,6 @@
 ---
 
 ## **PROBLEM SOLVING**
-
-```
-┌─────────────────────────────────────────────────────┐
-│  🎯 ALGORITHM & COMPETITIVE PROGRAMMING             │
-└─────────────────────────────────────────────────────┘
-```
 
 <div align="center">
 
