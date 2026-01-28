@@ -1,5 +1,3 @@
-<div align="center">
-
 ### JavaScript Ecosystem Enthusiast
 
 ## **TECH STACK**
@@ -28,15 +26,5 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pendant-k&theme=synthwave" width="48%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pendant-k&theme=synthwave&utcOffset=9" width="48%"/>
-
-</div>
-
----
-
-## **PROBLEM SOLVING**
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pendant0706)](https://solved.ac/pendant0706/)
 
 </div>
