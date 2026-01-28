@@ -1,5 +1,3 @@
-### JavaScript Ecosystem Enthusiast
-
 ## **TECH STACK**
 
 <div align="center">
