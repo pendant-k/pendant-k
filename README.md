@@ -10,13 +10,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
-
-## **GITHUB STATS**
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pendant-k&theme=synthwave" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pendant-k&theme=synthwave&utcOffset=9" width="48%"/>
-
-</div>
