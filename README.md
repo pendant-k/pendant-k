@@ -27,7 +27,7 @@ Apr 2026 – Oct 2026
 - Refactored conversation side panels into a tab-based interface with per-conversation state management.
 - Developed WebRTC-based live meeting features, including participant interfaces, camera and screen sharing, and media recovery.
 
-### divers (Nursevillage) — CTO / Frontend Engineer
+### divers (Nursevillage) — CTO
 Dec 2025 – Mar 2026
 
 - Built and operated a nurse career platform as the sole engineer, spanning frontend, backend, and infrastructure.
