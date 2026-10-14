@@ -1,5 +1,9 @@
 ## Who am I?
-- Platform Engineer at Zephyr Cloud
+Software engineer with experience in mobile, web, and AI workspace products.
+
+- Interested in the TypeScript ecosystem and modern developer tooling.
+- Focused on data-informed UX optimization through user behavior analysis.
+- Exploring AI workflow design, orchestration, and developer productivity.
 
 ## **TECH STACK**
 
@@ -13,3 +17,32 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
+
+## Experiences
+
+### Zephyr Cloud — Engineer
+Apr 2026 – Oct 2026
+
+- Contributed to an AI workspace application built with React, TypeScript, and Tauri.
+- Refactored conversation side panels into a tab-based interface with per-conversation state management.
+- Developed WebRTC-based live meeting features, including participant interfaces, camera and screen sharing, and media recovery.
+
+### divers (Nursevillage) — CTO / Frontend Engineer
+Dec 2025 – Mar 2026
+
+- Built and operated a nurse career platform as the sole engineer, spanning frontend, backend, and infrastructure.
+- Developed job discovery experiences and automated data ingestion pipelines.
+- Applied AI-assisted development workflows to implementation, infrastructure, and debugging.
+
+### EMMA Healthcare — Frontend Developer
+Apr 2024 – Dec 2025
+
+- Started as a Flutter Mobile Engineer Intern and transitioned into web frontend development.
+- Migrated an admin dashboard to TypeScript and built analytics interfaces.
+- Developed real-time healthcare interfaces and the Lucycare web kiosk using WebSockets.
+
+### Triple Take — CTO / Mobile Engineer
+Dec 2023 – May 2024
+
+- Developed Flutter-based Android and iOS apps for Zap!, an anonymous social platform for teens in Indonesia and Japan.
+- Implemented app architecture, localization, and cross-platform mobile experiences.
