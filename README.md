@@ -20,7 +20,7 @@ Software engineer with experience in mobile, web, and AI workspace products.
 
 ## Experiences
 
-### Zephyr Cloud — Engineer
+### Zephyr Cloud — Platform Engineer
 Apr 2026 – Oct 2026
 
 - Contributed to an AI workspace application built with React, TypeScript, and Tauri.
