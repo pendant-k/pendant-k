@@ -1,5 +1,5 @@
 ## Who am I?
-Software engineer with experience in mobile, web, and AI workspace products.
+Software engineer with 3+ years of experience building mobile, web, and AI workspace products.
 
 - Interested in the TypeScript ecosystem and modern developer tooling.
 - Focused on data-informed UX optimization through user behavior analysis.
