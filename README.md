@@ -46,3 +46,6 @@ Dec 2023 – May 2024 (6 months)
 
 - Developed Flutter-based Android and iOS apps for Zap!, an anonymous social platform for teens in Indonesia and Japan.
 - Implemented app architecture, localization, and cross-platform mobile experiences.
+
+
+## Open Source
