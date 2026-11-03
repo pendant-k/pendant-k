@@ -7,10 +7,15 @@ Software engineer with 3+ years of experience building mobile, web and Desktop A
 
 ## Experiences
 
-### divers (Nursevillage) — CTO
-Dec 2025 – Present · Full-time until Mar 2026, part-time since Apr 2026
+### divers (Nursevillage)
 
-- Built and operate a nurse career platform as the sole engineer, spanning frontend, backend, and infrastructure.
+**Software Engineer (Part-time)** · Apr 2026 – Present
+
+- Continuing to contribute to the nurse career platform on a part-time basis.
+
+**CTO** · Dec 2025 – Mar 2026 (4 months)
+
+- Built and operated a nurse career platform as the sole engineer, spanning frontend, backend, and infrastructure.
 - Developed job discovery experiences and automated data ingestion pipelines.
 - Applied AI-assisted development workflows to implementation, infrastructure, and debugging.
 
