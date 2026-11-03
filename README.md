@@ -7,19 +7,19 @@ Software engineer with 3+ years of experience building mobile, web and Desktop A
 
 ## Experiences
 
+### divers (Nursevillage) — CTO
+Dec 2025 – Present · Full-time until Mar 2026, part-time since Apr 2026
+
+- Built and operate a nurse career platform as the sole engineer, spanning frontend, backend, and infrastructure.
+- Developed job discovery experiences and automated data ingestion pipelines.
+- Applied AI-assisted development workflows to implementation, infrastructure, and debugging.
+
 ### Zephyr Cloud — Platform Engineer
 Apr 2026 – Oct 2026 (7 months)
 
 - Contributed to an AI workspace application built with React, TypeScript, and Tauri.
 - Refactored conversation side panels into a tab-based interface with per-conversation state management.
 - Developed WebRTC-based live meeting features, including participant interfaces, camera and screen sharing, and media recovery.
-
-### divers (Nursevillage) — CTO
-Dec 2025 – Mar 2026 (4 months)
-
-- Built and operated a nurse career platform as the sole engineer, spanning frontend, backend, and infrastructure.
-- Developed job discovery experiences and automated data ingestion pipelines.
-- Applied AI-assisted development workflows to implementation, infrastructure, and debugging.
 
 ### EMMA Healthcare — Frontend Developer
 Apr 2024 – Dec 2025 (1 year 9 months)
