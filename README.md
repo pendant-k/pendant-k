@@ -26,7 +26,7 @@ Apr 2026 – Oct 2026 (7 months)
 - Refactored conversation side panels into a tab-based interface with per-conversation state management.
 - Developed WebRTC-based live meeting features, including participant interfaces, camera and screen sharing, and media recovery.
 
-### EMMA Healthcare — Frontend Developer
+### EMMA Healthcare — Software Engineer(R&D)
 Apr 2024 – Dec 2025 (1 year 9 months)
 
 - Started as a Flutter Mobile Engineer Intern and transitioned into web frontend development.
